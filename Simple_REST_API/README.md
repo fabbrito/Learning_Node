@@ -56,4 +56,4 @@ HTTP/1.1 418 I'm a Teapot
 ---
 
 ## Youtube links:
-- Simple guide: [Fireship](https://www.youtube.com/watch?v=-MTSQjw5DrM)
+- Simple guide from [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA): [RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express](https://www.youtube.com/watch?v=-MTSQjw5DrM)
